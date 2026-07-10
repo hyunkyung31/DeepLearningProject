@@ -216,3 +216,11 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Google Colab 전용 항목 추가
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+drive/
+.config/
+sample_data/
+
